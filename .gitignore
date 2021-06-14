@@ -1,0 +1,19 @@
+**.iws
+out/**
+**/bin
+**/test/bin/**
+
+logs/**
+**/build/**
+**/dist/**
+*.log
+
+.gradle/
+*.ids
+*.ipr
+*.iml
+.idea/
+# from https://github.com/github/gitignore/blob/master/Java.gitignore
+*.class
+*.war
+*.ear
